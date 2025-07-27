@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mert AYDIN (aka Merdo) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=04BF8A&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI+Explorer;Flutter+%26+Firebase+Lover;Always+Learning+New+Things+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=04BF8A&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI+Explorer;Machine+Learning+ &+%26+Deep+LearningL;Always+Learning+New+Things+%F0%9F%93%9A" />
 </p>
 
 ---
