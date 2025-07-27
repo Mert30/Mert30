@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -43,14 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert30&layout=compact&theme=tokyonight&hide_border=false" width="50%" />
 </p>
-
----
-
-### 🏅 Badges & Certifications
-
-- 🧠 IBM Machine Learning with Python
-- 📊 Google Data Analytics Certificate *(hypothetical – örnek için eklendi)*
-- 💡 Deep Learning Specialization by Andrew Ng *(eğer varsa bırakabilirim ya da çıkarırız)*
 
 ---
 
