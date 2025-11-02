@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on **Data Science and AI Projects**
 - 🌱 I’m currently learning **Deep Learning**, **Machine Learning**, **Mobile Development**
-- 💬 Ask me about **Python**, **SQL**, **Data Science**, **Flutter** or **Firebase**
+- 💬 Ask me about **Python**, **SQL**, **Data Analysis**, **Flutter** or **Firebase**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mert30/)
 - 📩 Contact: [mertaydin@gmail.com](mailto:mertaydin@gmail.com)  
 - ⚡ Fun fact: I’m also known as **Merdo** 😄
