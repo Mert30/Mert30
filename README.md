@@ -1,5 +1,4 @@
-<h1 align="center">Mert AYDIN</h1>
-<h2 align="center">Data Scientist</h2>
+<h1 align="center">Mert AYDIN - Data Scientist</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mert30">LinkedIn</a> ·
