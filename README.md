@@ -1,4 +1,4 @@
-<h1 align="center">Mert Aydın</h1>
+<h1 align="center">Mert AYDIN</h1>
 <h2 align="center">Data Scientist</h2>
 
 <p align="center">
