@@ -41,18 +41,6 @@ EDA → feature engineering → modeling → evaluation → deployment → monit
 
 ---
 
-### GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mert30&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mert30&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert30&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-
----
-
 ### Engineering Philosophy
 - Metrics before models  
 - Simplicity before complexity  
