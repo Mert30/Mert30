@@ -32,28 +32,12 @@ EDA → feature engineering → modeling → evaluation → deployment → monit
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF7043?style=flat"/>
-  <img src="https://img.shields.io/badge/LightGBM-2C8EBB?style=flat"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
-
----
-
-### Selected Projects
-**Body Fat Percentage Prediction**  
-End-to-end regression pipeline with feature engineering, synthetic data augmentation, and model robustness analysis.
-
-**Demand Forecasting (Time Series)**  
-Lag features, rolling statistics, leakage control, and evaluation under real-world constraints.
-
-**ML Model API**  
-Trained model served via FastAPI with clear inference contracts and reproducible environment setup.
-
-> Repositories emphasize **clarity, correctness, and decision rationale**, not just accuracy scores.
 
 ---
 
