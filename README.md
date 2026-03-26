@@ -8,8 +8,10 @@
 ---
 
 ### Profile
-I build **data-driven systems** that move from raw data to production-ready machine learning models.  
-Strong focus on **model reliability, evaluation discipline, and real-world constraints** — not Kaggle theater.
+Computer Engineering graduate focused on building end-to-end data and machine learning systems.
+I work on projects involving data pipelines, feature engineering, model development, and deployment using tools like Python, SQL, FastAPI, Streamlit, and Docker. I enjoy transforming raw data into production-ready solutions.
+Experienced in working with real-world datasets, improving model performance through experimentation, and designing scalable data workflows (including Medallion Architecture).
+Currently exploring advanced ML systems and continuously improving my skills in data engineering and MLOps.
 
 Experience across the full ML lifecycle:
 EDA → feature engineering → modeling → evaluation → deployment → monitoring.
